@@ -4,5 +4,5 @@ To add chapters to your textbook, simply create new files for each one. Bookdown
 
 Here is an example:
 
-par(mar = c(4, 4, 0.1, 0.1))
-plot(pressure, pch = 19, type = "b")
+    par(mar = c(4, 4, 0.1, 0.1))
+    plot(pressure, pch = 19, type = "b")
