@@ -1,0 +1,3 @@
+# First Steps
+
+Instead of starting from scratch, find an open textbook repo to fork. If you want to use [Bookdown](https://bookdown.org/) to render your open textbook, find a repo that includes a GitHub Actions script to perform that work. 
