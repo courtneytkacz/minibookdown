@@ -1,0 +1,3 @@
+# Conclusion
+
+I hope you enjoyed this tutorial about how to publish an open textbook using [GitHub Pages](https://pages.github.com/)!
