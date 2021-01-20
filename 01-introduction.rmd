@@ -1,3 +1,3 @@
 # Introduction
 
-This open textbook will describe how to publish an open textbook using [GitHub](https://github.com/).
+This open textbook will describe how to publish an open textbook using [GitHub Pages](https://pages.github.com/).
