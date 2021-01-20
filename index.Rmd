@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# Welcome to my first open textbook!
+# Welcome to my first open textbook! {-}
 
  
