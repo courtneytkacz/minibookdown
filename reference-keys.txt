@@ -1,2 +1,2 @@
-create-your-open-textbook
+welcome-to-my-first-open-textbook
 introduction
